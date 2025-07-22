@@ -43,5 +43,5 @@ Built using **Python, scikit-learn, and Streamlit**, this app allows users to in
 
 ---
 
-## 📂 Project Structure
+
 
